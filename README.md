@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @The-Broccoli
+- 👀 I’m interested in Python, Discord (pycord) and Dofus stuff
